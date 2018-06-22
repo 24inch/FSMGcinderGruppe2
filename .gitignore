@@ -1,0 +1,14 @@
+*.bib.bak
+*.bib.sav
+.~*
+~*
+
+/paper/text/**/*.aux
+/paper/text/**/*.bbl
+/paper/text/**/*.blg
+/paper/text/**/*.fdb_latexmk
+/paper/text/**/*.fls
+/paper/text/**/*.log
+/paper/text/**/*.out
+/paper/text/**/*.pdf
+/paper/text/**/*.synctex.gz*
